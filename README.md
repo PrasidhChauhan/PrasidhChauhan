@@ -9,4 +9,5 @@ Languages and Tools 🚀
 C++ HTML CSS C Java MySQL
 
 About Me
+
 I am a self-taught developer currently in high school, with a keen interest in web development, data science, and exploring new technologies. I spend most of my free time learning new languages and working on personal projects.
