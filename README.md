@@ -1,16 +1,12 @@
-## Hi there 👋
+👋 Hi, I’m Prasidh Chauhan a high school student currently in college
+An aspiring developer and like learning new technology
+👀 I’m interested in learning new technology
+🌱 I’m currently learning C programming
+Prasidh Chauhan
+I'm a high school student with a passion for learning and coding. I'm constantly exploring new programming languages and expanding my skills.
 
-<!--
-**PrasidhChauhan/PrasidhChauhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Languages and Tools 🚀
+C++ HTML CSS C Java MySQL
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+About Me
+I am a self-taught developer currently in high school, with a keen interest in web development, data science, and exploring new technologies. I spend most of my free time learning new languages and working on personal projects.
