@@ -1,4 +1,4 @@
-👋 Hi, I’m Prasidh Chauhan a high school student currently in college
+👋 Hi, I’m Prasidh Chauhan a high school student currently in college Jaypee Institute of Information Technology
 An aspiring developer and like learning new technology
 👀 I’m interested in learning new technology
 🌱 I’m currently learning C programming
